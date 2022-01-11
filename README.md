@@ -1,6 +1,6 @@
 # SquareNumber
 
-A square number is given tny the sum of odd numbers. Each number is a position from 0 to n-1, being "n" is the number given by the user.
+A square number is given by the sum of odd numbers. Each number is a position from 0 to n-1, being "n" is the number given by the user.
 
 The sum stars in 1 being the next number the sum of the last number plus 2.
 
