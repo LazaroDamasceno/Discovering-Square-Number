@@ -6,7 +6,7 @@ The sum stars in 1 being the next number the sum of the last number plus 2.
 
 For example, if the given number is 8 the result is 64, because it derives from the sum of 1+3+5+7+9+11+13+15.
 
-One way to find is the code bellow:
+One way to find it is the code bellow:
 
     import java.util.*;
     import java.util.stream.*;
